@@ -17,6 +17,7 @@ You use plugins to extend the capabilities of Windows Media Center. I looked at 
 - `Yougle Vista <https://push-a-button.com/products/youglevista/>`_ - YouTube, Apple Trailers, and other community video sources in Windows Media Center. Has an extensibility API for adding your own custom sources.
 - `tubeCore <https://tubecentric.tv/>`_ - Adds UPnP/DLNA support to Windows Media Center. Primarily geared around video.
 - `RadioTime <https://radiotime.com/>`_ - A streaming audio service that lets you listen to radio from around the world. Has a plugin so you can access it through Media Center.
+- `Bloxstrap <https://bloxstrap.dev/>`_ - Replaces the regular Roblox launcher and adds extra cool stuff without changing the game itself. Change how Roblox looks by altering fonts and textures, and you can add new fonts and mods.
 
 Configuration
 =============
